@@ -1,4 +1,4 @@
-# Azure Virtual Machine custom extension with bicep
+# Azure Windows Virtual Machine custom extension with bicep
 How to install a custom extension on an Azure Virtual Machine
 
 ## 1. Create your Virtual Machine
