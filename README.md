@@ -1,5 +1,5 @@
-# Azure Windows Virtual Machine custom extension with bicep
-How to install a custom extension on an Azure Virtual Machine
+# Azure Virtual Machine custom extension with bicep
+How to install a custom Powershell extension on an Windows Azure Virtual Machine
 
 ## 1. Create your Virtual Machine
 ## 2. Create a Storage Account for your custom script
